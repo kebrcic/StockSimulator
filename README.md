@@ -1,5 +1,5 @@
 -------------------------Stock Management Program --------------------------
-
+***the "res" folder contains details on how to run the program, UML diagrams, and an explanation for the design of the code***
 This program is a command-line and GUI application that allows users to manage stocks and portfolios.
  It provides the following features.
 
